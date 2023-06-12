@@ -1,4 +1,4 @@
-/the project has unfinished cart logic /
+## the project has unfinished cart logic /
 if anyone who finds solution give a pull request
 
 ## Available Scripts
